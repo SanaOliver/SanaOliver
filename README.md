@@ -1,14 +1,27 @@
-Olá pessoal!!! 👋
+![Snake animation](https://github.com/SanaOliver/SanaOliver/blob/output/github-contribution-grid-snake.svg) 
 
-Eu sou Rosana Oliveira e sou aspirante a Desenvolvedora de sistemas...👩🏾‍💻
+## Olá pessoal!!! 👋
 
-Estou estudando Front-End no Instituto Federal do Sul de minas.
+Eu sou ***Rosana Oliveira*** e sou aspirante a Desenvolvedora de sistemas...👩🏾‍💻
 
-Estudante de Salesforce pelo trailhead.
+## Estou estudando:
 
-Estudante de Back-End pela projeto One da Oracle em parceria com a Alura.
+* Front-End no Instituto Federal do Sul de minas.
 
-Estudante de Python pela Let Code ADA. no curso de Data Science.
+* Salesforce pelo trailhead.
+
+* Back-End pela projeto One da Oracle em parceria com a Alura.
+
+* Python pela Let Code ADA no curso de Data Science.
+<br>
+:star: Estou em busca de oportunidades na Área de Desenvolvimento, QA e Data Science.
+<br>
+
+## Ferramentas e Linguangens
+
+
+
+
 
 
   
