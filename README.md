@@ -1,8 +1,10 @@
 ![Snake animation](https://github.com/SanaOliver/SanaOliver/blob/output/github-contribution-grid-snake.svg) 
 
-## Olá pessoal!!! 👋
+## Olá pessoal!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Eu sou ***Rosana Oliveira*** e sou aspirante a Desenvolvedora de sistemas...👩🏾‍💻
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=804080&center=true&vCenter=true&width=1000&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o...;com+um+pé+em+Data+Science.)](https://git.io/typing-svg)
 
 ## Estou estudando:
 
@@ -38,18 +40,14 @@ Eu sou ***Rosana Oliveira*** e sou aspirante a Desenvolvedora de sistemas...👩
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
 
 
-
-  
-  
-  
-  
-  
-  
-  
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45" height="40" />
-
-
+  
+  ## Contato:
+  
+<div>
+<a href="https://www.linkedin.com/in/rosanaoliver/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:sanaorihime@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
  
