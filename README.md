@@ -8,14 +8,26 @@ Eu sou ***Rosana Oliveira*** e sou aspirante a Desenvolvedora de sistemas...👩
 
 * Front-End no Instituto Federal do Sul de minas.
 
-* Salesforce pelo trailhead.
+* Salesforce pelo trailhead. (https://trailblazer.me/id/rosanaoliver)
 
 * Back-End pela projeto One da Oracle em parceria com a Alura.
 
 * Python pela Let Code ADA no curso de Data Science.
+
+* QA através do bootcamp da DIO.
+
+* Metodologias Ágeis 
+
 <br>
 :star: Estou em busca de oportunidades na Área de Desenvolvimento, QA e Data Science.
 <br>
+
+## GitHub Stats
+<div align="center">
+  <a href="https://github.com/SanaOliver">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanaOliver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaOliver&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Ferramentas e Linguangens
 
