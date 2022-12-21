@@ -29,9 +29,12 @@ Eu sou ***Rosana Oliveira*** e sou aspirante a Desenvolvedora de sistemas...👩
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaOliver&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Ferramentas e Linguangens
+## Ferramentas e Linguagens
 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  width="40" height="40">
 
 
 
