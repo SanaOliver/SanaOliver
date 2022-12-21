@@ -1,10 +1,11 @@
 ![Snake animation](https://github.com/SanaOliver/SanaOliver/blob/output/github-contribution-grid-snake.svg) 
 
+
 ## Olá pessoal!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Eu sou ***Rosana Oliveira*** e sou aspirante a Desenvolvedora de sistemas...👩🏾‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=804080&center=true&vCenter=true&width=1000&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o...;com+um+pé+em+Data+Science.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=804080&center=true&vLeft=true&width=1000&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o...;com+um+pé+em+Data+Science.)](https://git.io/typing-svg)
 
 ## Estou estudando:
 
